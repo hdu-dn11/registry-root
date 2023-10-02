@@ -12,6 +12,6 @@ dn11    60      IN      NS      a.root.dn11
 dn11    60      IN      NS      i.root.dn11
 dn11    60      IN      NS      t.root.dn11
 ;
-a.root.dn11     60      IN      A       172.16.255.153
+a.root.dn11     60      IN      A       172.16.7.53
 i.root.dn11     60      IN      A       172.16.2.13
 t.root.dn11     60      IN      A       172.16.3.53
