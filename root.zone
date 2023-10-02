@@ -2,6 +2,8 @@
 $ORIGIN .
 .       60      IN      SOA     a.root.dn11 dn11_root_hostmaster 2023100106 60 60 604800 60
 ;
+dn11    60      IN      NS      a.root.dn11
+;
 .       60      IN      NS      a.root.dn11
 .       60      IN      NS      i.root.dn11
 .       60      IN      NS      t.root.dn11
