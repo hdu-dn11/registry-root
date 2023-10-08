@@ -7,12 +7,14 @@ ts.dn11              60      IN      NS      ns1.ts.dn11
 gs.dn11              60      IN      NS      ns1.gs.dn11
 baimeow.dn11         60      IN      NS      ns1.baimeow.dn11
 meva.dn11            60      IN      NS      ns1.meva.dn11
+woshiluo.dn11        60      IN      NS      ns1.woshiluo.dn11
 ;
 ns1.iraze.dn11       60      IN      A       172.16.2.13
 ns1.ts.dn11          60      IN      A       172.16.3.53
 ns1.gs.dn11          60      IN      A       172.16.7.53
 ns1.baimeow.dn11     60      IN      A       172.16.7.53
 ns1.meva.dn11        60      IN      A       172.16.7.53
+ns1.woshiluo.dn11    60      IN      A       172.16.20.53
 ;
 dn11    60      IN      NS      a.root.dn11
 dn11    60      IN      NS      i.root.dn11
